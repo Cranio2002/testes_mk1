@@ -41,14 +41,6 @@ Nenhuma biblioteca externa é necessária.
 
 ---
 
-## ▶️ Como Executar
-
-### 1️⃣ Entrar na pasta do projeto
-
-```bash
-cd grupo_capoeira
-```
-
 ### 2️⃣ Executar o sistema
 
 ```bash
