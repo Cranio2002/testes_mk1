@@ -29,7 +29,7 @@ class GrupoCapoeira:
         inscrito_ano = int(input("Digite o ano em que você se inscreveu no curso: "))
 
         aluno = {
-            "id": gerar_id(),
+            "id": gerar_id()[:4],
             "nome": nome,
             "apelido": apelido,
             "idade": idade,
